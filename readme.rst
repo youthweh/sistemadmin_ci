@@ -14,7 +14,7 @@ for a given task.
 Cara Menjalankan Projek
 *******************
 
-http://localhost:8080/bantuprojek/index.php/
+http://localhost:8080/nama_folder_projek/index.php/
 
 **************************
 Changelog and New Features
